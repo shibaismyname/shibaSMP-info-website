@@ -46,6 +46,10 @@ a:hover {
     color: lightgray;
 }
 
+a {
+    color: #247BA0;
+}
+
 body {
     margin: 0;
 }
